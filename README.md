@@ -35,7 +35,7 @@ This add-on allows you to run [Browsersync](https://browsersync.io/) through the
 To install this add-on, run:
 
 ```bash
-ddev add-on get ddev/ddev-browsersync
+ddev add-on get studioraz/ddev-browsersync
 ddev restart
 ```
 
